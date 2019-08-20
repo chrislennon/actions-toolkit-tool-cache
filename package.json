@@ -25,7 +25,6 @@
     "url": "git+https://github.com/actions/toolkit.git"
   },
   "scripts": {
-    "test": "npm test",
     "build": "tsc"
   },
   "bugs": {
